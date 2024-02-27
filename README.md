@@ -1,1 +1,0 @@
-# walmart-sale-anlysis-using-sql-queries
